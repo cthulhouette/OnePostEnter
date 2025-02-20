@@ -1,6 +1,10 @@
 # OnePostEnter
+![OnePostEnter](https://github.com/user-attachments/assets/37c737d3-07a8-4714-a5a1-353e3d66e423)
 
-A browser extension that lets you use the Enter key to submit comments and posts across any website. Hell, bind your Enter key to anywhere you want! No more moving around the mouse - just press Enter and post!
+A simple browser extension that lets you use the Enter key to submit comments and posts across any website. Hell, bind your Enter key to anywhere you want! No more moving around the mouse - just press Enter and post!
+
+It's just that I personally, just never want to remove my hands off the keyboard when I'm doing anything on pc. Soulse games excluded hahaha. Very straightforward quality-of-life update I wanted to share w/ you. 
+
 
 ## Features
 
