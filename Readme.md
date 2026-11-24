@@ -8,12 +8,12 @@ It's just that I personally, just never want to remove my hands off the keyboard
 
 ## Features
 
-- 🎯 One-time setup per website
-- ⌨️ Use Enter key to submit on any website
-- 🔒 All settings stored locally in your browser
-- 🎨 Works with buttons, forms, and comment sections
-- 🌐 Compatible with any website
-- 🚀 Lightweight and fast
+- One-time setup per website
+- Use Enter key to submit on any website
+- All settings stored locally in your browser
+- Works with buttons, forms, and comment sections
+- Compatible with any website
+- Lightweight and fast
 
 ## How It Works
 
@@ -44,16 +44,6 @@ The extension will remember your button selection for each website, so you only 
 - No data is sent to external servers
 - No tracking or analytics
 - Minimal permissions required
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
